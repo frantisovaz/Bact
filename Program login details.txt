@@ -1,3 +1,0 @@
-Program login details
-User: host
-Password: host

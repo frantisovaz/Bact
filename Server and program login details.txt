@@ -1,9 +1,0 @@
-Server login details
-You can run the program on any UBMI computer or via Remote Desktop. 
-If you run the program on UBMI, you do not need credentials for the server, but only for the program.
-However, to access Remote Desktop, you must request credentials for the server from the server administrator.
-If you receive the access data, you will find the program in the directory c:\Bact\bakterie.exe.
-
-Program login details
-User: host
-Password: host
